@@ -15,4 +15,4 @@ Use of TF-IDF: The text token after word segmentation is individually assigned a
 
 I built models for Naive Bayes, SGD classifier, and LGBM classifier, and submitted the result after adjusting parameters and using ensemble for weighted voting.
 
-And finally, I ranked in the top 9% of the 4,000 teams and won the bronze medal.
+And finally, I ranked in the top 9% of the 2,175 teams and won the bronze medal.
