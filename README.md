@@ -1,3 +1,7 @@
+<!-- README language switch -->
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-1677ff?style=for-the-badge)](README.md) [![English](https://img.shields.io/badge/English-555555?style=for-the-badge)](README.en.md)
+<!-- /README language switch -->
+
 # 🥉 KaggleBronze_AIJC_detector
 
 This project documents my journey in a unique Kaggle competition, where I earned my **first Kaggle medal** – a 🥉 **bronze medal**, after participating in many contests!  
